@@ -13,7 +13,7 @@ namespace Implementation
 
         //I am using this code with a Mccdaq USB-3105
         //debugging: the config file must be stored in //the config file must be set at C:\Users\YourUserName\AppData\Roaming\MagnetConfig.txt
-        //When pulling this project from GitHub, you will find an example config file in the 
+        //When pulling this project from GitHub, you will find a sample config file in the top level folder.
         System.Int32 outputChannel;
         MccDaq.Range AORange = MccDaq.Range.Bip10Volts; //I have hard coded the range for my device
         float dataValue;
