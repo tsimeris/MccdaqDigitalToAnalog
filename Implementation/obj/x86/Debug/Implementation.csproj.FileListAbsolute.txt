@@ -1,0 +1,11 @@
+D:\Projects\Implementation\Implementation\Implementation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Implementation\Implementation\Implementation\bin\Debug\Implementation.exe
+D:\Projects\Implementation\Implementation\Implementation\bin\Debug\Implementation.pdb
+D:\Projects\Implementation\Implementation\Implementation\obj\x86\Debug\Implementation.exe
+D:\Projects\Implementation\Implementation\Implementation\obj\x86\Debug\Implementation.pdb
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\obj\x86\Debug\Implementation.exe
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\obj\x86\Debug\Implementation.pdb
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\obj\x86\Debug\Implementation.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\bin\Debug\Implementation.exe
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\bin\Debug\Implementation.pdb
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\bin\Debug\MccDaq.dll

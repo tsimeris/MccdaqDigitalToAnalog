@@ -1,0 +1,6 @@
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\bin\Debug\MccdaqDigitalToAnalog.exe
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\bin\Debug\MccdaqDigitalToAnalog.pdb
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\bin\Debug\MccDaq.dll
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\obj\x86\Debug\MccdaqDigitalToAnalog.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\obj\x86\Debug\MccdaqDigitalToAnalog.exe
+D:\Program Files (x86)\Magnet controller backup\Implementation\Implementation\Implementation\obj\x86\Debug\MccdaqDigitalToAnalog.pdb
